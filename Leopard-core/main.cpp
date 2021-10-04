@@ -20,6 +20,7 @@ int main()
 	vec4 b(0.5f, 0.2f, 0.1f, 1.0f);
 	vec4 c = a + b;
 	std::cout << a << std::endl;
+
 	
 
 	while (!window.closed())
